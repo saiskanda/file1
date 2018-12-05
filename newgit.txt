@@ -1,0 +1,16 @@
+package git;
+
+public class git {
+	
+	public static void main(String[] args) {
+		
+		int i = 40;
+		int j = 100;
+		int z = i+j;
+		for(i=40;i<j;i++);
+		{
+			System.out.println("value is " + z);
+		}
+	}
+
+}
