@@ -866,8 +866,8 @@
                                 <id>sources</id>
                                 <phase>process-resources</phase>
                                 <goals>
-                                    <goal>sources</goal>
-                                    <goal>resolve</goal>
+                                    <goal>default</goal>
+                                    <goal>default</goal>
                                 </goals>
                                 <configuration>
                                     <classifier>javadoc</classifier>
